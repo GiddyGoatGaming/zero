@@ -5,8 +5,8 @@
 
 version: 2
 updates:
-  - package-ecosystem: npm
-    directory: /package-lock.json
+  - package-ecosystem: "npm"
+    directory: "/"
     schedule:
       interval: "daily"
       
