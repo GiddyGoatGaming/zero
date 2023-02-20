@@ -8,5 +8,5 @@ updates:
   - package-ecosystem: npm
     directory: /package-lock.json
     schedule:
-      interval: "hourly"
+      interval: "daily"
       
